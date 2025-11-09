@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:00:33:23&stream=1160942&extension=m3u8
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:D9:F2:FB&stream=802484&extension=m3u8
